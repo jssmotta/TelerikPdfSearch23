@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="TelerikMauiAppSupportTelerikVS2022.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:TelerikMauiAppSupportTelerikVS2022.WinUI">
+
+</maui:MauiWinUIApplication>
